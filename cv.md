@@ -25,7 +25,8 @@ Can independently search for information and ask the right questions
 * Git
 * Webpack
 * ESLint
-* VSCode
+* VSCode  
+
 ## Code Examples
 ```
 const alphabetPosition = (text) => {
@@ -37,7 +38,8 @@ const alphabetPosition = (text) => {
       .join(' ');
       return result;
 };
-```
+```  
+
 ## Expirience
 [RSS-agregator](https://github.com/Roisler/frontend-project-11) - web application for aggregating and updating RSS feeds in real time
 * MVC
@@ -73,12 +75,12 @@ const alphabetPosition = (text) => {
 * Rollbar
 * Formik
 * Axios
-* Yup
-
+* Yup  
+  
 # Education
 ### Omsk State University of Railway Transport
 + Design and technological support of machine-building production
-### Hexlet (Frontend Developer Program) from March 1, 2022 to January 27, 2023
+### Hexlet (Frontend Developer Program) from March 1, 2022 to January 27, 2023  
 
 # Languages
 * English - A2
