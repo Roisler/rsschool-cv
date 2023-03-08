@@ -46,7 +46,7 @@ const alphabetPosition = (text) => {
 ```
 
 
-## Expirience
+## Experience
 [RSS-agregator](https://github.com/Roisler/frontend-project-11) - web application for aggregating and updating RSS feeds in real time
 * MVC
 * DOM handling
@@ -55,6 +55,8 @@ const alphabetPosition = (text) => {
 * Handling asynchronous Javascript (the project is built on promises)
 * Webpack customization
 * Automatic code quality monitoring (CodeClimate, Eslint, Github Actions)
+
+
 ### Technology stack:
 * JavaScript(ES6)
 * DOM API
@@ -72,6 +74,8 @@ const alphabetPosition = (text) => {
 * Async Javascript
 * Filtering of dirty words and expressions (leo-profanity)
 * Automatic code quality monitoring (CodeClimate, Eslint, Github Actions)
+
+
 ### Technology stack:
 * JavaScript(ES6)
 * React
