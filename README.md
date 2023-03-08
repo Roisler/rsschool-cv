@@ -1,2 +1,1 @@
-# rsschool-cv
-CV rsschool
+# [rsschool-cv](https://roisler.github.io/rsschool-cv/cv)
