@@ -54,7 +54,7 @@ const alphabetPosition = (text) => {
 * Validating forms with the yup library
 * Handling asynchronous Javascript (the project is built on promises)
 * Webpack customization
-* Automatic code quality monitoring (CodeClimate, Eslint, Github Actions)
+* Automatic code quality monitoring (CodeClimate, Eslint, Github Actions)  
 
 
 ### Technology stack:
@@ -73,7 +73,7 @@ const alphabetPosition = (text) => {
 * Routing
 * Async Javascript
 * Filtering of dirty words and expressions (leo-profanity)
-* Automatic code quality monitoring (CodeClimate, Eslint, Github Actions)
+* Automatic code quality monitoring (CodeClimate, Eslint, Github Actions)  
 
 
 ### Technology stack:
