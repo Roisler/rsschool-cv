@@ -15,7 +15,7 @@ All my free time I devote to learning something new in the field of frontend dev
 Ability to work in a team  
 Agility of mind  
 Can independently search for information and ask the right questions  
-# Skills
+## Skills
 * HTML5
 * CSS3 (Bootstrap, SCSS)
 * JavaScript(ES6)
@@ -26,3 +26,15 @@ Can independently search for information and ask the right questions
 * Webpack
 * ESLint
 * VSCode
+## Code Examples
+```
+const alphabetPosition = (text) => {
+  const result = text
+      .toLowerCase()
+      .replace(/[^a-z]/g, '')
+      .split('')
+      .map((el) => el.charCodeAt(0) - 96)
+      .join(' ');
+      return result;
+};
+```
