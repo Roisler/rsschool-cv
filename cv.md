@@ -15,3 +15,14 @@ All my free time I devote to learning something new in the field of frontend dev
 Ability to work in a team  
 Agility of mind  
 Can independently search for information and ask the right questions  
+# Skills
+* HTML5
+* CSS3 (Bootstrap, SCSS)
+* JavaScript(ES6)
+* React
+* React Bootstrap
+* Redux Toolkit
+* Git
+* Webpack
+* ESLint
+* VSCode
