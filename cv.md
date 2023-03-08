@@ -38,3 +38,39 @@ const alphabetPosition = (text) => {
       return result;
 };
 ```
+## Expirience
+[RSS-agregator](https://github.com/Roisler/frontend-project-11) - web application for aggregating and updating RSS feeds in real time
+* MVC
+* DOM handling
+* Localization (i18next)
+* Validating forms with the yup library
+* Handling asynchronous Javascript (the project is built on promises)
+* Webpack customization
+* Automatic code quality monitoring (CodeClimate, Eslint, Github Actions)
+### Technology stack:
+* JavaScript(ES6)
+* DOM API
+* Webpack
+* Bootstrap
+* yup
+* i18next  
+  
+[Hexlet-Chat](https://github.com/Roisler/frontend-project-12) is a simplified web chat implementation with registration and channel management features
+* DOM
+* Localization (i18next)
+* Forms(Formik)
+* Form Validation(yup)
+* Routing
+* Async Javascript
+* Filtering of dirty words and expressions (leo-profanity)
+* Automatic code quality monitoring (CodeClimate, Eslint, Github Actions)
+### Technology stack:
+* JavaScript(ES6)
+* React
+* React Bootstrap
+* Redux, ReduxToolkit
+* WebSocket
+* Rollbar
+* Formik
+* Axios
+* Yup
