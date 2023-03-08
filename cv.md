@@ -74,3 +74,11 @@ const alphabetPosition = (text) => {
 * Formik
 * Axios
 * Yup
+
+# Education
+### Omsk State University of Railway Transport
++ Design and technological support of machine-building production
+### Hexlet (Frontend Developer Program) from March 1, 2022 to January 27, 2023
+
+# Languages
+* English - A2
